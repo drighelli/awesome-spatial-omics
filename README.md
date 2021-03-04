@@ -2,6 +2,8 @@
 
 This wants to be a community maintained repository for collecting single-cell spatial omics resources to stay updated with this fast-growing field. 
 
+Any [contribution](https://github.com/drighelli/awesome-spatial-omics/blob/main/CONTRIBUTING.md) is really appreciated.
+
 At the moment we distinguish these main sections:
 
 - Spatial Omics Technologies
