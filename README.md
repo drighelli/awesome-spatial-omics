@@ -37,6 +37,9 @@ This section is referred to all the technologies that can be collected regarding
 
 
 ### Others (if any)
+|Year|Title|Description|Reference|
+|:-|:-|:-|:-|
+|2021| Spatially mapped single-cell chromatin accessibility | spatial ATAC | [Thornton et al. 2021](https://www.nature.com/articles/s41467-021-21515-7)|
 
 ## Spatial Omics Methods & Tools
 
