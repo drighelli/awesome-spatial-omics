@@ -33,7 +33,8 @@ This section is referred to all the technologies that can be collected regarding
 ### Spatial MultiModal
 |Year|Title|Description|Reference|
 |:-|:-|:-|:-|
-|YYYY|[10x Spatial Proteomics co-detection](https://www.10xgenomics.com/products/spatial-proteomics)|Allows the co-detection of proteins and transcripts at spatial level| Ref |  
+|YYYY|[10x Spatial Proteomics co-detection](https://www.10xgenomics.com/products/spatial-proteomics)|Allows the co-detection of proteins and transcripts at spatial level| Ref | 
+|2020|High-Spatial-Resolution Multi-Omics Sequencing via Deterministic Barcoding in Tissue| detection of transcripts and proteins on a chip-placed tissue slice|[Liu et al 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)31390-8)|
 
 
 ### Others (if any)
