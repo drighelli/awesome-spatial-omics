@@ -47,6 +47,9 @@ This section is referred to all the technologies that can be collected regarding
 This section is intended not only for papers, but also for packages, methods, approaches or guidelines for Spatial Omics data analysis and integration.
 Following subsection will be subsequently divided by argument while collecting them.
 
+### General Spatial Omics Methods & Tools
+[MISTy](https://saezlab.github.io/misty/) - [R] - Multiview Intercellular SpaTial modeling framework for knowledge extraction and analysis of highly multiplexed, spatially resolved omics data.
+
 ### Spatial Transcriptomics Methods & Tools
 
 ### Spatial Multi Modal Methods & Tools
