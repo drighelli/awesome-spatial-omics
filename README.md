@@ -32,14 +32,14 @@ This section is referred to all the technologies that can be collected regarding
 
 ### Spatial MultiModal
 |Year|Title|Description|Reference|
-|:-|:-|:-|:-|
+|:-:|:--|:--|:--|
 |YYYY|[10x Spatial Proteomics co-detection](https://www.10xgenomics.com/products/spatial-proteomics)|Allows the co-detection of proteins and transcripts at spatial level| Ref | 
 |2020|High-Spatial-Resolution Multi-Omics Sequencing via Deterministic Barcoding in Tissue| detection of transcripts and proteins on a chip-placed tissue slice|[Liu et al 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)31390-8)|
 
 
 ### Others (if any)
 |Year|Title|Description|Reference|
-|:-|:-|:-|:-|
+|:-:|:--|:--|:--|
 |2021| Spatially mapped single-cell chromatin accessibility | spatial ATAC | [Thornton et al. 2021](https://www.nature.com/articles/s41467-021-21515-7)|
 
 ## Spatial Omics Methods & Tools
@@ -48,10 +48,13 @@ This section is intended not only for papers, but also for packages, methods, ap
 Following subsection will be subsequently divided by argument while collecting them.
 
 ### Spatial Transcriptomics Methods & Tools
+|Year|Title|Language|Description|Reference|
+|:-:|:--|:-:|:--|:--|
+|2021|[Giotto](http://spatialgiotto.rc.fas.harvard.edu/)|R|Toolbox for integrative analysis and visualization of spatial expression data|[Dries et al. 2021](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2)|
 
 ### Spatial Multi Modal Methods & Tools
 
 ### Others (if any)
 |Year|Title|Language|Description|Reference|
-|:-|:-|-|:-|:-|
+|:-:|:--|:-:|:--|:--|
 |2020| [MISTy](https://saezlab.github.io/misty/)| R |Multiview Intercellular SpaTial modeling framework for knowledge extraction and analysis of highly multiplexed, spatially resolved omics data.|[Tanevski et al.](https://www.biorxiv.org/content/10.1101/2020.05.08.084145v1.full.pdf)
