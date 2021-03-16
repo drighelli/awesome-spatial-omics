@@ -28,7 +28,8 @@ This section is referred to all the technologies that can be collected regarding
 
 |Molecular-based||||
 |:-|:-|:-|:-|
-|2014|[seqFISH](https://www.seqfish.com/technology)|Allows the detection of transcripts at spatial level| [Lubeck et Al.](https://www.nature.com/articles/nmeth.2892) |  
+|2014|[seqFISH](https://www.seqfish.com/technology)|Allows the detection of transcripts at spatial level| [Lubeck et Al.](https://www.nature.com/articles/nmeth.2892) |
+|2015|[MERFISH](http://zhuang.harvard.edu/merfish.html)|Multiplexed smFISH with error-robust barcodes| [Chen et al.](https://science.sciencemag.org/content/348/6233/aaa6090) |
 
 ### Spatial MultiModal
 |Year|Title|Description|Reference|
