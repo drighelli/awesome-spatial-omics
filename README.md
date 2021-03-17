@@ -24,7 +24,7 @@ This section is referred to all the technologies that can be collected regarding
 ### Spatial Transcriptomics
 |Spot-Based||||
 |:-|:-|:-|:-|
-|2018|[10x Visium](https://www.10xgenomics.com/products/spatial-gene-expression)|Allows the detection of transcripts at spatial spot level| [Salmén et al.](https://www.nature.com/articles/s41596-018-0045-2)|  
+|2016|[10x Visium](https://www.10xgenomics.com/products/spatial-gene-expression)|Allows the detection of transcripts at spatial spot level| [Ståhl et al.](https://science.sciencemag.org/content/353/6294/78.long)|  
 
 |Molecular-based||||
 |:-|:-|:-|:-|
