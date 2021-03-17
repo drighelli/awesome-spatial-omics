@@ -24,12 +24,14 @@ This section is referred to all the technologies that can be collected regarding
 ### Spatial Transcriptomics
 |Spot-Based||||
 |:-|:-|:-|:-|
-|YYYY|[10x Visium](https://www.10xgenomics.com/products/spatial-gene-expression)|Allows the detection of transcripts at spatial spot level| Ref |
-|2019|HDST|High-definition spatial transcriptomics with 2-μm resolution|[Vickovic et al.](https://www.nature.com/articles/s41592-019-0548-y)
+|2016|[10x Visium](https://www.10xgenomics.com/products/spatial-gene-expression)|Allows the detection of transcripts at spatial spot level| [Ståhl et al.](https://science.sciencemag.org/content/353/6294/78.long)|  
+|2019|HDST|High-definition spatial transcriptomics with 2-μm resolution|[Vickovic et al.](https://www.nature.com/articles/s41592-019-0548-y)|
+
 
 |Molecular-based||||
 |:-|:-|:-|:-|
-|2014|[seqFISH](https://www.seqfish.com/technology)|Allows the detection of transcripts at spatial level| [Lubeck et Al.](https://www.nature.com/articles/nmeth.2892) |  
+|2014|[seqFISH](https://www.seqfish.com/technology)|Allows the detection of transcripts at spatial level| [Lubeck et Al.](https://www.nature.com/articles/nmeth.2892) |
+|2015|[MERFISH](http://zhuang.harvard.edu/merfish.html)|Multiplexed smFISH with error-robust barcodes| [Chen et al.](https://science.sciencemag.org/content/348/6233/aaa6090) |
 
 ### Spatial MultiModal
 |Year|Title|Description|Reference|
