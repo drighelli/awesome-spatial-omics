@@ -54,6 +54,7 @@ Following subsection will be subsequently divided by argument while collecting t
 |Year|Title|Language|Description|Reference|
 |:-:|:--|:-:|:--|:--|
 |2021|[Giotto](http://spatialgiotto.rc.fas.harvard.edu/)|R|Toolbox for integrative analysis and visualization of spatial expression data|[Dries et al. 2021](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2)|
+|2025|[FlashDeconv](https://github.com/cafferychen777/flashdeconv)|Python|High-performance spatial deconvolution using randomized sketching. Processes 1M spots in ~3 min with linear O(N) scaling.|[Yang et al. 2025](https://doi.org/10.64898/2025.12.22.696108)|
 
 ### Spatial Multi Modal Methods & Tools
 
