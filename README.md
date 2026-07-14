@@ -53,6 +53,7 @@ Following subsection will be subsequently divided by argument while collecting t
 ### Spatial Transcriptomics Methods & Tools
 |Year|Title|Language|Description|Reference|
 |:-:|:--|:-:|:--|:--|
+|2026|[AESTETIK](https://github.com/ratschlab/aestetik)|Python|Convolutional autoencoder for multi-modal spatial transcriptomics representation learning with morphology and topology.|[Nonchev et al. 2026](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433)|
 |2025|[ChatSpatial](https://github.com/cafferychen777/ChatSpatial)|Python|MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods for spatial domains, deconvolution, cell communication, trajectory analysis across Visium, Xenium, MERFISH.|[PyPI](https://pypi.org/project/chatspatial/) / [Docs](https://cafferychen777.github.io/ChatSpatial/)|
 |2021|[Giotto](http://spatialgiotto.rc.fas.harvard.edu/)|R|Toolbox for integrative analysis and visualization of spatial expression data|[Dries et al. 2021](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2)|
 |2025|[FlashDeconv](https://github.com/cafferychen777/flashdeconv)|Python|High-performance spatial deconvolution using randomized sketching. Processes 1M spots in ~3 min with linear O(N) scaling.|[Yang et al. 2025](https://doi.org/10.64898/2025.12.22.696108)|
