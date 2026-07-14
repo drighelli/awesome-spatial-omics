@@ -54,6 +54,7 @@ Following subsection will be subsequently divided by argument while collecting t
 |Year|Title|Language|Description|Reference|
 |:-:|:--|:-:|:--|:--|
 |2025|[DeepSpot](https://github.com/ratschlab/DeepSpot)|Python|Predicts spatial transcriptomics from H&E images using spatial context and pathology foundation models.|[Nonchev et al. 2025](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3)|
+|2025|[DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell)|Python|Predicts virtual single-cell spatial transcriptomics from H&E images using spot-level supervision.|[Nonchev et al. 2025](https://openreview.net/forum?id=ofCkwXQKaz)|
 |2025|[ChatSpatial](https://github.com/cafferychen777/ChatSpatial)|Python|MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods for spatial domains, deconvolution, cell communication, trajectory analysis across Visium, Xenium, MERFISH.|[PyPI](https://pypi.org/project/chatspatial/) / [Docs](https://cafferychen777.github.io/ChatSpatial/)|
 |2021|[Giotto](http://spatialgiotto.rc.fas.harvard.edu/)|R|Toolbox for integrative analysis and visualization of spatial expression data|[Dries et al. 2021](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2)|
 |2025|[FlashDeconv](https://github.com/cafferychen777/flashdeconv)|Python|High-performance spatial deconvolution using randomized sketching. Processes 1M spots in ~3 min with linear O(N) scaling.|[Yang et al. 2025](https://doi.org/10.64898/2025.12.22.696108)|
