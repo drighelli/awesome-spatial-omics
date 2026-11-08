@@ -62,4 +62,5 @@ Following subsection will be subsequently divided by argument while collecting t
 ### Others (if any)
 |Year|Title|Language|Description|Reference|
 |:-:|:--|:-:|:--|:--|
-|2020| [MISTy](https://saezlab.github.io/misty/)| R |Multiview Intercellular SpaTial modeling framework for knowledge extraction and analysis of highly multiplexed, spatially resolved omics data.|[Tanevski et al.](https://www.biorxiv.org/content/10.1101/2020.05.08.084145v1.full.pdf)
+|2020| [MISTy](https://saezlab.github.io/misty/)| R |Multiview Intercellular SpaTial modeling framework for knowledge extraction and analysis of highly multiplexed, spatially resolved omics data.|[Tanevski et al.](https://www.biorxiv.org/content/10.1101/2020.05.08.084145v1.full.pdf)|
+|2026|[spatial-sanctuary](https://github.com/Lukecele/spatial-oncology-master)|Python|Mathematical modeling and reaction-diffusion framework (Helmholtz/Bessel equations) to estimate spatial pharmacological sanctuaries in EGFR-mutant NSCLC under Osimertinib. Includes clinical cohort (MSKCC) analysis and interactive simulator.|[Zenodo](https://doi.org/10.5281/zenodo.23623653) / [Hugging Face](https://huggingface.co/spaces/Lucace/spatial-oncology-simulator)|
