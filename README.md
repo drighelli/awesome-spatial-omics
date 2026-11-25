@@ -63,6 +63,7 @@ Following subsection will be subsequently divided by argument while collecting t
 |2026|[KPMP virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas)|-|Dataset: DeepSpot-M predicted spatial gene expression (19,338 genes) for 1,534 H&E kidney biopsy slides from 476 KPMP participants, with clinical and histopathological annotations.|[Nonchev et al. 2026](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)|
 |2026|[KPMP Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics)|-|Dataset: DeepSpot-M predicted spatial gene expression (19,338 genes) for ~1.64M cells in 49 KPMP Xenium kidney sections, with the measured Xenium panel.|[Nonchev et al. 2026](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)|
 |2026|[AESTETIK](https://github.com/ratschlab/aestetik)|Python|Convolutional autoencoder for multi-modal spatial transcriptomics representation learning with morphology and topology.|[Nonchev et al. 2026](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433)|
+|2026|[Plant Omics Research Skills](https://github.com/carrot-wangqian/plant-omics-research-skills)|Markdown|Six agent skills for plant spatial transcriptomics and single-cell workflows, from sample checks to interpretation and reporting.|[Release v1.0.1](https://github.com/carrot-wangqian/plant-omics-research-skills/releases/tag/v1.0.1)|
 
 ### Spatial Multi Modal Methods & Tools
 
